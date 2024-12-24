@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    color: rgb(0, 0, 142);
+    background-color: rgb(105, 190, 255);
+    border: 5px solid red;
+    border-radius: 25px;
+}
+
+span{
+    color: rgb(125, 0, 0);
+}
+
+.ul1{
+    color: green;
+}
+.ul2{
+    color: red;
+}
+.ul3{
+    color: yellow;
+}
+
+caption{
+    background-color: yellow;
+}
+
+thead{
+    background-color: red;
+}
+
+.body{
+    background-color: rgb(173, 10, 173);
+}
+
+.bd{
+    background-color: green;
+}
+
+table{
+    text-align: center;
+}
+
+button{
+    width: 300px;
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+}
+
+img{
+    width: 500px;
+}
